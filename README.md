@@ -1,16 +1,19 @@
 # 🐍 Python Programming Notes
 
-These notebooks were created using Google Colab and are saved in Jupyter Notebook (.ipynb) format.
-They cover fundamental Python concepts with examples and practice code.
+This repository contains well-structured Python programming notes created using Google Colab
+and saved in Jupyter Notebook (.ipynb) format.
 
-## 📌 Topics Covered
-- Python Basics & Syntax
-- Data Types & Variables
-- Conditional Statements
-- Loops
-- Functions
-- Lists, Tuples, Sets, Dictionaries
-- Basic Problem Solving
+The notes cover Python from basics to intermediate concepts and are organized topic-wise
+for easy understanding and navigation.
+
+## 📂 Repository Structure
+- Getting Started with Python
+- Python Basics (datatypes, variables, loops, conditionals)
+- Core Concepts (strings, lists, dictionaries, functions)
+- File Handling
+- Python Libraries (NumPy, Pandas, Matplotlib)
+- GUI Programming using Tkinter
+- Sample Datasets
 
 ## 🛠 Tools Used
 - Python
@@ -18,10 +21,8 @@ They cover fundamental Python concepts with examples and practice code.
 - Jupyter Notebook
 
 ## 🎯 Purpose
-This repository is part of my learning journey and preparation for:
-- Internships
-- Technical interviews
-- Strong programming foundation
+These notes are part of my learning journey and are intended to build a strong foundation in Python
+for internships, technical interviews, and further development.
 
 📌 **Note:** Notebooks are best viewed directly on GitHub or opened in Google Colab.
 
